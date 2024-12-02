@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 About Me<br>Hi there! I'm a passionate developer and community builder with a strong focus on blockchain technology and backend development.<br><br>💻 Technical Skills<br>Programming: Node.js, Express.js, TypeScript, Solidity, JavaScript<br>Frameworks & Tools: NestJS, Web3.js, Ethers.js<br>Crypto Projects: Experienced in creating dApps and managing token ecosystems<br>Content Creation: Skilled in designing engaging social media content and community campaigns<br>🌐 What I Do<br>Build real-time backend solutions and integrate APIs for seamless performance<br>Explore innovative dApp ideas<br><br>🚀 What I'm Excited About<br>Decentralized finance (DeFi)<br>Scaling user-friendly blockchain solutions<br><br>🌱 Learning Goals<br>Currently enhancing my skills in advanced backend systems and exploring cutting-edge blockchain frameworks.<br><br>
 
 
